@@ -1,7 +1,7 @@
 RhaEngine
 =========
-My first approach to writing the engine in OpenGL
 <b>Autor:</b> Rhanjie
+My first approach to writing the engine in OpenGL
 -
 ### Used Technology
 <b>Programming language:</b> C++.<br/>
