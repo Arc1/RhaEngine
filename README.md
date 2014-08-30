@@ -1,12 +1,12 @@
 RhaEngine
 =========
 My first approach to writing the engine in OpenGL
-### Autor: Rhanjie
+<b>Autor:</b> Rhanjie
 -
 ### Used Technology
-Programming language: <b>C++</b>.<br/>
-Graphics API: <b>OpenGL 3.3</b>.<br/>
-Libraries: <b>GLEW</b>, <b>GLFW</b>, <b>GLM</b>, <b>Assimp</b>.
+<b>Programming language:</b> C++.<br/>
+<b>Graphics API:</b> OpenGL 3.3.<br/>
+<b>Libraries:</b> GLEW, GLFW, GLM, Assimp.
 <br/><br/>
 ### Latest Screens:
 *no*
